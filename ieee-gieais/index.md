@@ -20,3 +20,13 @@ Systems
 - File size: 5.0MB
 - Download file: [ethically-aligned-design-v2.pdf](ethically-aligned-design-v2.pdf)
 - Source: http://standards.ieee.org/develop/indconn/ec/ead_v2.pdf
+
+## Glossary for Discussion of Ethics of Autonomous and Intelligent Systems
+
+### Version 1 (for the document Ethically Aligned Design Version 2)
+
+- Date: October 2017
+- Pages: 111
+- File size: 1.1MB
+- Download file: [glossary-for-eadv2-v1.pdf](glossary-for-eadv2-v1.pdf)
+- Source: http://standards.ieee.org/develop/indconn/ec/eadv2_glossary.pdf
