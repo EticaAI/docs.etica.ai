@@ -6,4 +6,3 @@
   - Source: <http://www.ohchr.org/EN/UDHR/Pages/Language.aspx?LangID=por>
 - [Spanish: Declaración Universal de Derechos Humanos](udhr-spn-declaracion-universal-de-derechos-humanos.pdf)
   - Source: <http://www.ohchr.org/EN/UDHR/Pages/Language.aspx?LangID=spn>
-  
