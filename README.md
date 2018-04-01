@@ -6,6 +6,17 @@ online at [docs.etica.ai](https://docs.etica.ai).
 > - [Versión en español](es/)
 > - [Versão em português](pt/)
 
+### Documents to be added soon
+- The International Covenant on Civil and Political Rights, 1966.
+- The International Covenant on Economic, Social and Cultural Rights, 1966.
+- The International Convention on the Elimination of All Forms of Racial Discrimination, 1965.
+- The Convention on the Rights of the Child.
+- The Convention on the Elimination of All Forms of Discrimination against Women, 1979.
+- The Convention on the Rights of Persons with Disabilities, 2006.
+- The Geneva Conventions and additional protocols, 1949.
+- IRTF’s Research into Human Rights Protocol Considerations.
+- The UN Guiding Principles on Business and Human Rights, 2011.
+
 ## Quick access
 
 - Online version: <https://docs.etica.ai>
