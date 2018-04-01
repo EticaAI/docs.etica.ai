@@ -1,0 +1,4 @@
+User-agent: *
+
+# Please use http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html
+Disallow: /ieee-gieais/ethically-aligned-design-v2.pdf

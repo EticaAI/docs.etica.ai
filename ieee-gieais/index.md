@@ -21,6 +21,13 @@ Systems.
 - Download file: [ethically-aligned-design-v2.pdf](ethically-aligned-design-v2.pdf)
 - Source: <http://standards.ieee.org/develop/indconn/ec/ead_v2.pdf>
 
+_We kindly ask you to use the <https://ethicsinaction.ieee.org> or
+<http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html> link to
+share on social media instead of directly linking to the
+[EADv2 PDF on this website](../ieee-gieais/ethically-aligned-design-v2.pdf).
+This promotes the Global Initiative: the recommendations are still being
+discussed extensively._
+
 ## Portuguese translation of Ethically Aligned Design Version 1 Executive Summary
 
 - Date: 04 December 2017 <!-- Was on PDF metadata -->

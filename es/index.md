@@ -18,9 +18,19 @@ artificial.
   - [Declaración Universal de Derechos Humanos, 1946](../un-hr/udhr/udhr-por-declaracao-universal-dos-direitos-humanos.pdf)
 - The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems
   - _[Ethically Aligned Design - Version 1 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v1.pdf)_
-  - _[Ethically Aligned Design - Version 2 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v2.pdf)_
+  - _[Ethically Aligned Design - Version 2 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v2.pdf)_  [*]
+
+_*: Le pedimos amablemente que use el enlace <https://ethicsinaction.ieee.org>
+ o <http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html> para
+compartir en las redes sociales en lugar de vincularlo directamente con el
+[PDF de EADv2 en este sitio web](../ieee-gieais/ethically-aligned-design-v2.pdf).
+Esto promueve la Iniciativa Global: las recomendaciones aún se discuten
+ampliamente._
 
 ### Los documentos que se añadirán en breve
+Buscamos versiones fiables en español y portugués de documentos de referencia y,
+si no, vamos a utilizar las versiones originales.
+
 - The International Covenant on Civil and Political Rights, 1966.
 - The International Covenant on Economic, Social and Cultural Rights, 1966.
 - The International Convention on the Elimination of All Forms of Racial Discrimination, 1965.
@@ -30,6 +40,10 @@ artificial.
 - The Geneva Conventions and additional protocols, 1949.
 - IRTF’s Research into Human Rights Protocol Considerations.
 - The UN Guiding Principles on Business and Human Rights, 2011.
+
+La lista anterior se inspiró en las sugerencias de lectura en el tema Derechos
+Humanos del _General Principles Committee_ de la
+[Iniciativa Global IEEE](https://ethicsinaction.ieee.org/).
 
 ## Acesso rápido
 

@@ -21,6 +21,10 @@ responsible application of automation and artificial intelligence.
 - IRTF’s Research into Human Rights Protocol Considerations.
 - The UN Guiding Principles on Business and Human Rights, 2011.
 
+The above list was inspired by the suggestions of reading in the subject
+Human Rights by the General Principles Committee of
+[IEEE Global Initiative](https://ethicsinaction.ieee.org/).
+
 ## Quick access
 
 - Online version: <https://docs.etica.ai>
