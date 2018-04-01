@@ -7,6 +7,10 @@ online em [docs.etica.ai/pt](https://docs.etica.ai) e offline via
 > - [Versión en español](../es/)
 > - Versão em português
 
+Tem como objetivo final catalogar traduções confiáveis nos idiomas espanhol e
+português de documentos de referência. O tema de interesse envolve aplicação
+responsável de automação e inteligência artificial.
+
 ## Documentos
 
 - Nações Unidas sobre Direitos Humanos

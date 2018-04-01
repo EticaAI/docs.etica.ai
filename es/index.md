@@ -7,6 +7,11 @@ de la [opción de descarga completa](https://github.com/EticaAI/docs.etica.ai/ar
 > - Versión en español
 > - [Versão em português](../pt/)
 
+El objetivo final de este proyecto es catalogar traducciones confiables en los
+idiomas español y portugués de documentos de referencia. El tema de interés
+implica la aplicación responsable de la automatización y la inteligencia
+artificial.
+
 ## Documentos
 
 - Naciones Unidas en derechos humanos
@@ -31,6 +36,6 @@ de la [opción de descarga completa](https://github.com/EticaAI/docs.etica.ai/ar
 - Versión en línea: <https://docs.etica.ai/es>
 - Versión sin conexión (descargar todo): <https://github.com/EticaAI/docs.etica.ai/archive/master.zip>
 - Diario de cambios: <https://github.com/EticaAI/docs.etica.ai/commits/master>
-- Discusiones publicas: <https://github.com/EticaAI/docs.etica.ai/issues>
+- Discusiones publicas: <https://github.com/EticaAI/docs.etica.ai/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc>
 - Discusiones publicas (antiguo foro): <https://github.com/EticaAI/forum/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Adocs>
 - Contacto: _etica.of.a.ai(at)gmail.com_

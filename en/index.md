@@ -7,6 +7,10 @@ online at [docs.etica.ai/en](https://docs.etica.ai/en) and offline via
 > - English version - _Comment: The English version has extra non-essential information such as a link to all versions of documents_
 > - [Versão em português](../pt/)
 
+It's final objective is to catalog reliable translations in the Spanish and
+Portuguese languages of reference documents. The topic of interest involves
+responsible application of automation and artificial intelligence.
+
 ## Documents
 
 - [United Nations on Human Rights](../un-hr/)
@@ -29,6 +33,6 @@ online at [docs.etica.ai/en](https://docs.etica.ai/en) and offline via
 - Online version: <https://docs.etica.ai/en>
 - Offline version (full download): <https://github.com/EticaAI/docs.etica.ai/archive/master.zip>
 - Changelog: <https://github.com/EticaAI/docs.etica.ai/commits/master>
-- Public discussion: <https://github.com/EticaAI/docs.etica.ai/issues>
+- Public discussion: <https://github.com/EticaAI/docs.etica.ai/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc>
 - Public discussion (old forum): <https://github.com/EticaAI/forum/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Adocs>
 - Contact: _etica.of.a.ai(at)gmail.com_
