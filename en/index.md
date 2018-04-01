@@ -1,10 +1,16 @@
 # Document repository of Etica.AI
 This is the Document repository of [Etica.AI](https://etica.ai) available
-online at [docs.etica.ai](https://docs.etica.ai).
+online at [docs.etica.ai](https://docs.etica.ai/en).
 
-> - [English Version](en/) _Note: this version explain source of the documents_
-> - [Versión en español](es/)
-> - [Versão em português](pt/)
+> - [Versión en español](../es/)
+> - English version - _Comment: English version also explains the origin of the files_
+> - [Versão em português](../pt/)
+
+## Documents
+
+- [United Nations on Human Rights](../un-hr/)
+  - [Universal Declaration of Human Rights](../un-hr/udhr/)
+- [The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems](../ieee-gieais/)
 
 ## Quick access
 
