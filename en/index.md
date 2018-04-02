@@ -13,8 +13,9 @@ responsible application of automation and artificial intelligence.
 
 ## Documents
 
-- [United Nations on Human Rights](../un-hr/)
-  - [Universal Declaration of Human Rights](../un-hr/udhr/)
+- [United Nations: Human Rights](../un-hr/)
+  - [Universal Declaration of Human Rights, 1946](../un-hr/udhr/)
+  - [International Covenant on Civil and Political Rights, 1966](../un-hr/iccpr/)
 - [The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems](../ieee-gieais/)
 
 ### Documents to be added soon

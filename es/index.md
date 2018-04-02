@@ -14,8 +14,9 @@ artificial.
 
 ## Documentos
 
-- Naciones Unidas en derechos humanos
+- Naciones Unidas: derechos humanos
   - [Declaración Universal de Derechos Humanos, 1946](../un-hr/udhr/udhr-por-declaracao-universal-dos-direitos-humanos.pdf)
+  - [International Covenant on Civil and Political Rights, 1966 (English Version)](../un-hr/iccpr/iccpr-en-international-covenant-on-civil-and-political-rights.pdf)
 - The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems
   - _[Ethically Aligned Design - Version 1 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v1.pdf)_
   - _[Ethically Aligned Design - Version 2 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v2.pdf)_  [*]

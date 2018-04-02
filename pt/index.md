@@ -13,8 +13,9 @@ responsável de automação e inteligência artificial.
 
 ## Documentos
 
-- Nações Unidas sobre Direitos Humanos
+- Nações Unidas: Direitos Humanos
   - [Declaração Universal dos Direitos Humanos, 1946](../un-hr/udhr/udhr-por-declaracao-universal-dos-direitos-humanos.pdf)
+  - [Pacto Internacional dos Direitos Econômicos, Sociais e Culturais, 1966](../un-hr/iccpr/iccpr-pt-pacto-internacional-sobre-os-direitos-economicos-sociais-e-culturais.pdf)
 - A Iniciativa Global IEEE para Considerações Éticas em Inteligência Artificial e Sistemas Autônomos
   - _[Ethically Aligned Design - Version 1 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v1.pdf)_
   - [Sumário executivo do "EAD - Version 1"](../ieee-gieais/ethically-aligned-design-v1-executive-summary-portuguese_v1.pdf)
