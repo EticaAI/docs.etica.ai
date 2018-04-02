@@ -16,12 +16,17 @@ responsável de automação e inteligência artificial.
 - Nações Unidas: Direitos Humanos
   - [Declaração Universal dos Direitos Humanos, 1946](../un-hr/udhr/udhr-por-declaracao-universal-dos-direitos-humanos.pdf)
   - [Pacto Internacional dos Direitos Econômicos, Sociais e Culturais, 1966](../un-hr/iccpr/iccpr-pt-pacto-internacional-sobre-os-direitos-economicos-sociais-e-culturais.pdf)
+  - _[The International Covenant on Economic, Social and Cultural Rights, 1965 (English Version)](../un-hr/icescr/icescr-en-international-covenant-on-economic-social-and-cultural-rights.pdf)_ [*]
+  - _[The International Convention on the Elimination of All Forms of Racial Discrimination, 1965 (English Version)](../un-hr/iceafrd/iceafrd-en-international-convention-on-the-elimination-of-all-forms-of-racial-discrimination.pdf)_ [*]
 - A Iniciativa Global IEEE para Considerações Éticas em Inteligência Artificial e Sistemas Autônomos
   - _[Ethically Aligned Design - Version 1 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v1.pdf)_
   - [Sumário executivo do "EAD - Version 1"](../ieee-gieais/ethically-aligned-design-v1-executive-summary-portuguese_v1.pdf)
-  - _[Ethically Aligned Design - Version 2 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v2.pdf)_ [*]
+  - _[Ethically Aligned Design - Version 2 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v2.pdf)_ [**]
 
-_*: Gentilmente pede-se que use o link <https://ethicsinaction.ieee.org>
+> _*: Ainda sem versão em português adicionada ao repositório. Acompanhe e
+colabore em <https://github.com/EticaAI/docs.etica.ai/issues>_
+
+> _**: Gentilmente pede-se que use o link <https://ethicsinaction.ieee.org>
 ou <http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html> em
 vez de compartilhar nas redes sociais o link direto para o
 [PDF EADv2 deste website](../ieee-gieais/ethically-aligned-design-v2.pdf).
