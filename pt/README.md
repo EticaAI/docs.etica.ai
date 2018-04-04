@@ -19,6 +19,8 @@ responsável de automação e inteligência artificial.
   - _[The International Covenant on Economic, Social and Cultural Rights, 1965 (English Version)](../un-hr/icescr/icescr-en-international-covenant-on-economic-social-and-cultural-rights.pdf)_ [*]
   - _[The International Convention on the Elimination of All Forms of Racial Discrimination, 1965 (English Version)](../un-hr/iceafrd/iceafrd-en-international-convention-on-the-elimination-of-all-forms-of-racial-discrimination.pdf)_ [*]
   - [Convenção sobre os Direitos das Pessoas com Deficiência, 2016](../un-hr/crpd/crpd-pt-convencao-sobre-os-direitos-das-pessoas-com-deficiencia.doc) & seu [protocolo facultativo](../un-hr/crpd/crpd-pt-protocolo-facultativo-a-convencao-sobre-os-direitos-das-pessoas-com-deficiencia.doc)
+- IRTF
+  - _[Research into Human Rights Protocol Considerations, 2017 (English Version)](../ietf/rfc8280.pdf)_ [*]
 - A Iniciativa Global IEEE para Considerações Éticas em Inteligência Artificial e Sistemas Autônomos
   - _[Ethically Aligned Design - Version 1 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v1.pdf)_
   - [Sumário executivo do "EAD - Version 1"](../ieee-gieais/ethically-aligned-design-v1-executive-summary-portuguese_v1.pdf)
@@ -38,14 +40,9 @@ discutidas amplamente._
 Estamos a procura de versões confiáveis em espanhol e em português de documentos
 de referência e, caso não seja possível, usaremos as versões originais.
 
-- The International Covenant on Civil and Political Rights, 1966.
-- The International Covenant on Economic, Social and Cultural Rights, 1966.
-- The International Convention on the Elimination of All Forms of Racial Discrimination, 1965.
 - The Convention on the Rights of the Child.
 - The Convention on the Elimination of All Forms of Discrimination against Women, 1979.
-- The Convention on the Rights of Persons with Disabilities, 2006.
 - The Geneva Conventions and additional protocols, 1949.
-- IRTF’s Research into Human Rights Protocol Considerations.
 - The UN Guiding Principles on Business and Human Rights, 2011.
 
 A lista acima foi inspirada nas sugestões de leitura no tema Direitos Humanos

@@ -19,6 +19,8 @@ responsible application of automation and artificial intelligence.
   - [The International Covenant on Economic, Social and Cultural Rights, 1965](../un-hr/icescr/)
   - [The International Convention on the Elimination of All Forms of Racial Discrimination, 1965](../un-hr/iceafrd/)
   - [Convention on the Rights of Persons with Disabilities, 2016](../un-hr/crpd/)
+- IRTF
+  - [Research into Human Rights Protocol Considerations, 2017](../ietf/)
 - [The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems](../ieee-gieais/)
 
 ### Documents to be added soon
@@ -30,12 +32,12 @@ Portuguese and, if this is not possible, we will use the original versions.
 - The International Covenant on Economic, Social and Cultural Rights, 1966.
 - The International Convention on the Elimination of All Forms of Racial Discrimination, 1965.
 - The Convention on the Rights of Persons with Disabilities, 2006.
+- IRTF’s Research into Human Rights Protocol Considerations.
 -->
 
 - The Convention on the Rights of the Child.
 - The Convention on the Elimination of All Forms of Discrimination against Women, 1979.
 - The Geneva Conventions and additional protocols, 1949.
-- IRTF’s Research into Human Rights Protocol Considerations.
 - The UN Guiding Principles on Business and Human Rights, 2011.
 
 The above list was inspired by the suggestions of reading in the subject

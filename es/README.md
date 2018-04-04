@@ -20,6 +20,8 @@ artificial.
   - _[The International Covenant on Economic, Social and Cultural Rights, 1965 (English Version)](../un-hr/icescr/icescr-en-international-covenant-on-economic-social-and-cultural-rights.pdf)_ [*]
   - _[The International Convention on the Elimination of All Forms of Racial Discrimination, 1965 (English Version)](../un-hr/iceafrd/iceafrd-en-international-convention-on-the-elimination-of-all-forms-of-racial-discrimination.pdf)_ [*]
   - [Convención sobre los Derechos de las Personas con Discapacidad y Protocolo Facultativo (PDF)](../un-hr/crpd/crpd-es-convencion-sobre-los-derechos-de-las-personas-con-discapacidad-y-protocolo-facultativo.pdf) & [versión en DOC](../un-hr/crpd/crpd-es-convencion-sobre-los-derechos-de-las-personas-con-discapacidad-y-protocolo-facultativo.doc)
+- IRTF
+  - _[Research into Human Rights Protocol Considerations, 2017 (English Version)](../ietf/rfc8280.pdf)_ [*]
 - The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems
   - _[Ethically Aligned Design - Version 1 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v1.pdf)_
   - _[Ethically Aligned Design - Version 2 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v2.pdf)_  [**]
@@ -37,14 +39,9 @@ ampliamente._
 Buscamos versiones fiables en español y portugués de documentos de referencia y,
 si no, vamos a utilizar las versiones originales.
 
-- The International Covenant on Civil and Political Rights, 1966.
-- The International Covenant on Economic, Social and Cultural Rights, 1966.
-- The International Convention on the Elimination of All Forms of Racial Discrimination, 1965.
 - The Convention on the Rights of the Child.
 - The Convention on the Elimination of All Forms of Discrimination against Women, 1979.
-- The Convention on the Rights of Persons with Disabilities, 2006.
 - The Geneva Conventions and additional protocols, 1949.
-- IRTF’s Research into Human Rights Protocol Considerations.
 - The UN Guiding Principles on Business and Human Rights, 2011.
 
 La lista anterior se inspiró en las sugerencias de lectura en el tema Derechos
