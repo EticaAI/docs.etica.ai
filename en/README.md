@@ -18,6 +18,7 @@ responsible application of automation and artificial intelligence.
   - [International Covenant on Civil and Political Rights, 1966](../un-hr/iccpr/)
   - [The International Covenant on Economic, Social and Cultural Rights, 1965](../un-hr/icescr/)
   - [The International Convention on the Elimination of All Forms of Racial Discrimination, 1965](../un-hr/iceafrd/)
+  - [Convention on the Rights of Persons with Disabilities, 2016](../un-hr/crpd/)
 - [The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems](../ieee-gieais/)
 
 ### Documents to be added soon
