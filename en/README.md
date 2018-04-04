@@ -13,7 +13,7 @@ responsible application of automation and artificial intelligence.
 
 ## Documents
 
-- [United Nations: Human Rights](../un-hr/)
+- United Nations: Human Rights
   - [Universal Declaration of Human Rights, 1946](../un-hr/udhr/)
   - [International Covenant on Civil and Political Rights, 1966](../un-hr/iccpr/)
   - [The International Covenant on Economic, Social and Cultural Rights, 1965](../un-hr/icescr/)

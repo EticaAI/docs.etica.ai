@@ -1,6 +1,7 @@
 # Document repository of Etica.AI
 This is the document repository of [Etica.AI](https://etica.ai) available
-online at [docs.etica.ai](https://docs.etica.ai).
+online at [docs.etica.ai](https://docs.etica.ai) and offline via
+[full download option](https://github.com/EticaAI/docs.etica.ai/archive/master.zip).
 
 > - [English Version](en/) _Note: this version explain source of the documents_
 > - [Versión en español](es/)
