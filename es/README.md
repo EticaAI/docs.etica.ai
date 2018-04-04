@@ -19,12 +19,12 @@ artificial.
   - _[International Covenant on Civil and Political Rights, 1966 (English Version)](../un-hr/iccpr/iccpr-en-international-covenant-on-civil-and-political-rights.pdf)_ [*]
   - _[The International Covenant on Economic, Social and Cultural Rights, 1965 (English Version)](../un-hr/icescr/icescr-en-international-covenant-on-economic-social-and-cultural-rights.pdf)_ [*]
   - _[The International Convention on the Elimination of All Forms of Racial Discrimination, 1965 (English Version)](../un-hr/iceafrd/iceafrd-en-international-convention-on-the-elimination-of-all-forms-of-racial-discrimination.pdf)_ [*]
+  - [Convención sobre los Derechos de las Personas con Discapacidad y Protocolo Facultativo (PDF)](../un-hr/crpd/crpd-es-convencion-sobre-los-derechos-de-las-personas-con-discapacidad-y-protocolo-facultativo.pdf) & [versión en DOC](../un-hr/crpd/crpd-es-convencion-sobre-los-derechos-de-las-personas-con-discapacidad-y-protocolo-facultativo.doc)
 - The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems
   - _[Ethically Aligned Design - Version 1 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v1.pdf)_
   - _[Ethically Aligned Design - Version 2 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v2.pdf)_  [**]
 
-> _*: No hay versión en español añadida al repositorio. Acompañe y colabore en
-<https://github.com/EticaAI/docs.etica.ai/issues>_
+> _*: No hay versión en español añadida al repositorio. Acompañe y colabore en <https://github.com/EticaAI/docs.etica.ai/issues>_
 
 > _**: Le pedimos amablemente que use el enlace <https://ethicsinaction.ieee.org>
  o <http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html> para

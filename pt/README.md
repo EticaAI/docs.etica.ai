@@ -18,6 +18,7 @@ responsável de automação e inteligência artificial.
   - [Pacto Internacional dos Direitos Econômicos, Sociais e Culturais, 1966](../un-hr/iccpr/iccpr-pt-pacto-internacional-sobre-os-direitos-economicos-sociais-e-culturais.pdf)
   - _[The International Covenant on Economic, Social and Cultural Rights, 1965 (English Version)](../un-hr/icescr/icescr-en-international-covenant-on-economic-social-and-cultural-rights.pdf)_ [*]
   - _[The International Convention on the Elimination of All Forms of Racial Discrimination, 1965 (English Version)](../un-hr/iceafrd/iceafrd-en-international-convention-on-the-elimination-of-all-forms-of-racial-discrimination.pdf)_ [*]
+  - [Convenção sobre os Direitos das Pessoas com Deficiência, 2016](../un-hr/crpd/crpd-pt-convencao-sobre-os-direitos-das-pessoas-com-deficiencia.doc) & seu [protocolo facultativo](../un-hr/crpd/crpd-pt-protocolo-facultativo-a-convencao-sobre-os-direitos-das-pessoas-com-deficiencia.doc)
 - A Iniciativa Global IEEE para Considerações Éticas em Inteligência Artificial e Sistemas Autônomos
   - _[Ethically Aligned Design - Version 1 For Public Discussion (English Version)](../ieee-gieais/ethically-aligned-design-v1.pdf)_
   - [Sumário executivo do "EAD - Version 1"](../ieee-gieais/ethically-aligned-design-v1-executive-summary-portuguese_v1.pdf)

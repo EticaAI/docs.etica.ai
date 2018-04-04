@@ -12,15 +12,18 @@ Portuguese languages of reference documents. The topic of interest involves
 responsible application of automation and artificial intelligence.
 
 ### Documents to be added soon
+We are looking for reliable versions of reference documents in Spanish and
+Portuguese and, if this is not possible, we will use the original versions.
+
 <!--
 - The International Covenant on Civil and Political Rights, 1966.
 - The International Covenant on Economic, Social and Cultural Rights, 1966.
 - The International Convention on the Elimination of All Forms of Racial Discrimination, 1965.
+- The Convention on the Rights of Persons with Disabilities, 2006.
 -->
 
 - The Convention on the Rights of the Child.
 - The Convention on the Elimination of All Forms of Discrimination against Women, 1979.
-- The Convention on the Rights of Persons with Disabilities, 2006.
 - The Geneva Conventions and additional protocols, 1949.
 - IRTF’s Research into Human Rights Protocol Considerations.
 - The UN Guiding Principles on Business and Human Rights, 2011.
