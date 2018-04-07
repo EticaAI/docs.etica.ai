@@ -19,7 +19,8 @@ artificial.
   - _[International Covenant on Civil and Political Rights, 1966 (English Version)](../un-hr/iccpr/iccpr-en-international-covenant-on-civil-and-political-rights.pdf)_ [*]
   - _[The International Covenant on Economic, Social and Cultural Rights, 1965 (English Version)](../un-hr/icescr/icescr-en-international-covenant-on-economic-social-and-cultural-rights.pdf)_ [*]
   - _[The International Convention on the Elimination of All Forms of Racial Discrimination, 1965 (English Version)](../un-hr/iceafrd/iceafrd-en-international-convention-on-the-elimination-of-all-forms-of-racial-discrimination.pdf)_ [*]
-  - [Convención sobre los Derechos de las Personas con Discapacidad y Protocolo Facultativo (PDF)](../un-hr/crpd/crpd-es-convencion-sobre-los-derechos-de-las-personas-con-discapacidad-y-protocolo-facultativo.pdf) & [versión en DOC](../un-hr/crpd/crpd-es-convencion-sobre-los-derechos-de-las-personas-con-discapacidad-y-protocolo-facultativo.doc)
+  - [Principios Rectores sobre las empresas y los derechos humanos, 2011](../un-hr/gpbhr/gpbhr-es-principios-rectores-sobre-las-empresas-y-los-derechos-humanos.pdf)
+  - [Convención sobre los Derechos de las Personas con Discapacidad y Protocolo Facultativo, 2016 (PDF)](../un-hr/crpd/crpd-es-convencion-sobre-los-derechos-de-las-personas-con-discapacidad-y-protocolo-facultativo.pdf) & [versión en DOC](../un-hr/crpd/crpd-es-convencion-sobre-los-derechos-de-las-personas-con-discapacidad-y-protocolo-facultativo.doc)
 - IRTF
   - _[Research into Human Rights Protocol Considerations, 2017 (English Version)](../ietf/rfc8280.pdf)_ [*]
 - The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems
