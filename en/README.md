@@ -17,6 +17,7 @@ responsible application of automation and artificial intelligence.
   - [Universal Declaration of Human Rights, 1946](../un-hr/udhr/)
   - [International Covenant on Civil and Political Rights, 1966](../un-hr/iccpr/)
   - [The International Covenant on Economic, Social and Cultural Rights, 1965](../un-hr/icescr/)
+  - [Convention on the Elimination of All Forms of Discrimination against Women, 1979](../un-hr/cedaw/)
   - [The International Convention on the Elimination of All Forms of Racial Discrimination, 1965](../un-hr/iceafrd/)
   - [Guiding Principles on Business and Human Rights, 2011](../un-hr/gpbhr/)
   - [Convention on the Rights of Persons with Disabilities, 2016](../un-hr/crpd/)
@@ -32,13 +33,13 @@ Portuguese and, if this is not possible, we will use the original versions.
 - The International Covenant on Civil and Political Rights, 1966.
 - The International Covenant on Economic, Social and Cultural Rights, 1966.
 - The International Convention on the Elimination of All Forms of Racial Discrimination, 1965.
+- The Convention on the Elimination of All Forms of Discrimination against Women, 1979.
 - The Convention on the Rights of Persons with Disabilities, 2006.
 - IRTF’s Research into Human Rights Protocol Considerations.
 - The UN Guiding Principles on Business and Human Rights, 2011.
 -->
 
 - The Convention on the Rights of the Child.
-- The Convention on the Elimination of All Forms of Discrimination against Women, 1979.
 - The Geneva Conventions and additional protocols, 1949.
 
 The above list was inspired by the suggestions of reading in the subject

@@ -18,6 +18,7 @@ responsável de automação e inteligência artificial.
   - [Pacto Internacional dos Direitos Econômicos, Sociais e Culturais, 1966](../un-hr/iccpr/iccpr-pt-pacto-internacional-sobre-os-direitos-economicos-sociais-e-culturais.pdf)
   - _[The International Covenant on Economic, Social and Cultural Rights, 1965 (English Version)](../un-hr/icescr/icescr-en-international-covenant-on-economic-social-and-cultural-rights.pdf)_ [*]
   - _[The International Convention on the Elimination of All Forms of Racial Discrimination, 1965 (English Version)](../un-hr/iceafrd/iceafrd-en-international-convention-on-the-elimination-of-all-forms-of-racial-discrimination.pdf)_ [*]
+  - _[Convention on the Elimination of All Forms of Discrimination against Women, 1979 (English Version)](../un-hr/cedaw/cedaw-en-convention-on-the-elimination-of-all-forms-of-discrimination-against-women.pdf)_ [*]
   - _[Guiding Principles on Business and Human Rights, 2011 (English Version)](../un-hr/gpbhr/gpbhr-en-guiding-principles-for-business-and-human-rights.pdf)_ [*]
   - [Convenção sobre os Direitos das Pessoas com Deficiência, 2016](../un-hr/crpd/crpd-pt-convencao-sobre-os-direitos-das-pessoas-com-deficiencia.doc) & seu [protocolo facultativo](../un-hr/crpd/crpd-pt-protocolo-facultativo-a-convencao-sobre-os-direitos-das-pessoas-com-deficiencia.doc)
 - IRTF
@@ -42,7 +43,6 @@ Estamos a procura de versões confiáveis em espanhol e em português de documen
 de referência e, caso não seja possível, usaremos as versões originais.
 
 - The Convention on the Rights of the Child.
-- The Convention on the Elimination of All Forms of Discrimination against Women, 1979.
 - The Geneva Conventions and additional protocols, 1949.
 
 A lista acima foi inspirada nas sugestões de leitura no tema Direitos Humanos

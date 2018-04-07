@@ -19,6 +19,7 @@ artificial.
   - _[International Covenant on Civil and Political Rights, 1966 (English Version)](../un-hr/iccpr/iccpr-en-international-covenant-on-civil-and-political-rights.pdf)_ [*]
   - _[The International Covenant on Economic, Social and Cultural Rights, 1965 (English Version)](../un-hr/icescr/icescr-en-international-covenant-on-economic-social-and-cultural-rights.pdf)_ [*]
   - _[The International Convention on the Elimination of All Forms of Racial Discrimination, 1965 (English Version)](../un-hr/iceafrd/iceafrd-en-international-convention-on-the-elimination-of-all-forms-of-racial-discrimination.pdf)_ [*]
+  - [Convención Sobre La Eliminación De Todas Las Formas De Discriminación Contra La Mujer](../un-hr/cedaw/cedaw-es-convencion-sobre-la-eliminacion-de-todas-las-formas-de-discriminacion-contra-la-mujer.pdf)
   - [Principios Rectores sobre las empresas y los derechos humanos, 2011](../un-hr/gpbhr/gpbhr-es-principios-rectores-sobre-las-empresas-y-los-derechos-humanos.pdf)
   - [Convención sobre los Derechos de las Personas con Discapacidad y Protocolo Facultativo, 2016 (PDF)](../un-hr/crpd/crpd-es-convencion-sobre-los-derechos-de-las-personas-con-discapacidad-y-protocolo-facultativo.pdf) & [versión en DOC](../un-hr/crpd/crpd-es-convencion-sobre-los-derechos-de-las-personas-con-discapacidad-y-protocolo-facultativo.doc)
 - IRTF
@@ -41,7 +42,6 @@ Buscamos versiones fiables en español y portugués de documentos de referencia 
 si no, vamos a utilizar las versiones originales.
 
 - The Convention on the Rights of the Child.
-- The Convention on the Elimination of All Forms of Discrimination against Women, 1979.
 - The Geneva Conventions and additional protocols, 1949.
 - The UN Guiding Principles on Business and Human Rights, 2011.
 
